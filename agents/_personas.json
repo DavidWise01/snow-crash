@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "hiro-protagonist",
+    "name": "Hiro Protagonist",
+    "epithet": "Hacker, master swordsman, and Mafia pizza-delivery driver; c",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Hiro Protagonist:SNC:5ce92d⟧"
+  },
+  {
+    "slug": "y-t",
+    "name": "Y.T.",
+    "epithet": "Teenage skateboard Kourier who becomes Hiro's information pa",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Y.T.:SNC:e8f5f3⟧"
+  },
+  {
+    "slug": "l-bob-rife",
+    "name": "L. Bob Rife",
+    "epithet": "Media and fiber-optics magnate weaponizing the virus for mas",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦L. Bob Rife:SNC:89f8d0⟧"
+  },
+  {
+    "slug": "juanita-marquez",
+    "name": "Juanita Marquez",
+    "epithet": "Hiro's ex and a Metaverse pioneer; supplies the Sumerian and",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Juanita Marquez:SNC:5ae9f9⟧"
+  },
+  {
+    "slug": "raven",
+    "name": "Raven",
+    "epithet": "Aleut harpoon-wielding mercenary with a nuclear deadman's sw",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Raven:SNC:1a9d91⟧"
+  },
+  {
+    "slug": "the-metaverse",
+    "name": "The Metaverse",
+    "epithet": "The avatar-based VR successor to the internet — the term its",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Metaverse:SNC:a91116⟧"
+  },
+  {
+    "slug": "snow-crash",
+    "name": "Snow Crash",
+    "epithet": "The dual virus: a digital drug and a mind-infection at once,",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Snow Crash:SNC:af5436⟧"
+  },
+  {
+    "slug": "the-nam-shub-of-enki",
+    "name": "The Nam-shub of Enki",
+    "epithet": "The ancient Sumerian counter-program — the 'linguistic vacci",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Nam-shub of Enki:SNC:94427a⟧"
+  },
+  {
+    "slug": "the-raft",
+    "name": "The Raft",
+    "epithet": "The vast flotilla of refugee and infected ships orbiting Rif",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Raft:SNC:93e8d6⟧"
+  }
+]
